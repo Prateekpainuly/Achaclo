@@ -1,5 +1,6 @@
 {
   "name": "achaclo",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -11,9 +12,12 @@
     "node-sass": "^8.0.0",
     "react": "^16.14.0",
     "react-dom": "^16.13.0",
+    "react-redux": "^8.0.5",
     "react-router": "^5.2.0",
     "react-router-dom": "^5.2.0",
     "react-scripts": "^5.0.1",
+    "redux": "^4.2.0",
+    "redux-logger": "^3.0.6",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
