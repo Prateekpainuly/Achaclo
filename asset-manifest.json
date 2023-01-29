@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Achaclo/static/css/main.f0c05e8f.css",
+    "main.js": "/Achaclo/static/js/main.cf11c967.js",
+    "static/media/achaicon.svg": "/Achaclo/static/media/achaicon.f9f07cc60e4d79a2254e35c546a3a427.svg",
+    "static/media/shopping-bag.svg": "/Achaclo/static/media/shopping-bag.a688874f6f1507316bdfa420328a4a53.svg",
+    "index.html": "/Achaclo/index.html",
+    "main.f0c05e8f.css.map": "/Achaclo/static/css/main.f0c05e8f.css.map",
+    "main.cf11c967.js.map": "/Achaclo/static/js/main.cf11c967.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0c05e8f.css",
+    "static/js/main.cf11c967.js"
+  ]
+}
