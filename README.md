@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Achaclo
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Achaclo is a clothing website made with React, firebase and uses stripe payment gateway to run a payment simulation.
 
 ## Available Scripts
 
